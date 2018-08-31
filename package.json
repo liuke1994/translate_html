@@ -1,0 +1,26 @@
+{
+  "name": "translate_html",
+  "version": "1.0.0",
+  "description": "translator html use google translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuke1994/translate_html.git"
+  },
+  "keywords": [
+    "translate",
+    "html"
+  ],
+  "author": "liuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuke1994/translate_html/issues"
+  },
+  "homepage": "https://github.com/liuke1994/translate_html#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
